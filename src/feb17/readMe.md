@@ -59,3 +59,17 @@ if else-if
 
 
 WAP to check whether a give num is odd or even using if else ?
+
+
+nested if-else
+
+
+
+# Scanner 
+It is a class which is used to get user input
+First we have to create an object and then with that object we will get user input
+
+
+
+WAP to check whether a give num is positive or negative or zero by taking user input.
+WAP to print largest num from 3 nums. take user input.
