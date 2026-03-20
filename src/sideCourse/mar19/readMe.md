@@ -22,3 +22,12 @@ Testing the merging of the code.
 
 main -> destination
 testMerge -> source
+
+A new change done to show checkout error.
+when we have uncommited changes in the current branch and 
+we try to check out to another branch, it will give error and say either commit or stash
+
+
+Stash -> store these changes temporarily at a location and bring them back when needed
+git stash -> used to stash the changes (Storing temporarily at a location)
+git stash pop -> bring back the stashed changes
