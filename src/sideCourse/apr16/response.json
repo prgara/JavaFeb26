@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Clothes",
+    "slug": "clothes",
+    "image": "https://i.imgur.com/QkIa5tT.jpeg",
+    "creationAt": "2026-04-16T17:30:09.000Z",
+    "updatedAt": "2026-04-16T17:30:09.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Electronics",
+    "slug": "electronics",
+    "image": "https://i.imgur.com/ZANVnHE.jpeg",
+    "creationAt": "2026-04-16T17:30:09.000Z",
+    "updatedAt": "2026-04-16T17:30:09.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Furniture",
+    "slug": "furniture",
+    "image": "https://i.imgur.com/Qphac99.jpeg",
+    "creationAt": "2026-04-16T17:30:09.000Z",
+    "updatedAt": "2026-04-16T17:30:09.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Shoes",
+    "slug": "shoes",
+    "image": "https://i.imgur.com/qNOjJje.jpeg",
+    "creationAt": "2026-04-16T17:30:09.000Z",
+    "updatedAt": "2026-04-16T17:30:09.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Miscellaneous",
+    "slug": "miscellaneous",
+    "image": "https://i.imgur.com/BG8J0Fj.jpg",
+    "creationAt": "2026-04-16T17:30:09.000Z",
+    "updatedAt": "2026-04-16T17:30:09.000Z"
+  },
+  {
+    "id": 6,
+    "name": "ndknkn",
+    "slug": "ndknkn",
+    "image": "https://i.imgur.com/QkIa5tT.jpeg",
+    "creationAt": "2026-04-16T18:00:47.000Z",
+    "updatedAt": "2026-04-16T18:00:47.000Z"
+  },
+  {
+    "id": 7,
+    "name": "New Ctg",
+    "slug": "new-ctg",
+    "image": "https://placeimg.com/640/480/any",
+    "creationAt": "2026-04-16T18:01:18.000Z",
+    "updatedAt": "2026-04-16T18:01:18.000Z"
+  },
+  {
+    "id": 8,
+    "name": "New Categories",
+    "slug": "new-categories",
+    "image": "https://placeimg.com/640/480/any",
+    "creationAt": "2026-04-16T18:03:09.000Z",
+    "updatedAt": "2026-04-16T18:03:09.000Z"
+  },
+  {
+    "id": 9,
+    "name": "uno1",
+    "slug": "uno1",
+    "image": "http://www.google.com/imagen.jpg",
+    "creationAt": "2026-04-16T18:37:11.000Z",
+    "updatedAt": "2026-04-16T18:37:11.000Z"
+  },
+  {
+    "id": 16,
+    "name": "testcategory1-9a46fdab-23c4-4088-9382-09302bb701ce",
+    "slug": "testcategory1-9a46fdab-23c4-4088-9382-09302bb701ce",
+    "image": "https://placehold.co/600x400",
+    "creationAt": "2026-04-16T18:46:41.000Z",
+    "updatedAt": "2026-04-16T18:46:41.000Z"
+  },
+  {
+    "id": 23,
+    "name": "testcategory1-4bdc6569-c816-4558-8c5e-784ab973b828",
+    "slug": "testcategory1-4bdc6569-c816-4558-8c5e-784ab973b828",
+    "image": "https://placehold.co/600x400",
+    "creationAt": "2026-04-16T18:57:41.000Z",
+    "updatedAt": "2026-04-16T18:57:41.000Z"
+  },
+  {
+    "id": 31,
+    "name": "testcategory1-a6245ec0-ca7d-4600-a7c0-95afe35790e1",
+    "slug": "testcategory1-a6245ec0-ca7d-4600-a7c0-95afe35790e1",
+    "image": "https://placehold.co/600x400",
+    "creationAt": "2026-04-16T20:01:36.000Z",
+    "updatedAt": "2026-04-16T20:01:36.000Z"
+  },
+  {
+    "id": 32,
+    "name": "category_B",
+    "slug": "category-b",
+    "image": "https://pravatar.cc/",
+    "creationAt": "2026-04-16T21:01:05.000Z",
+    "updatedAt": "2026-04-16T21:01:05.000Z"
+  }
+]
